@@ -220,3 +220,6 @@ __marimo__/
 
 # DS Store
 **/.DS_Store
+
+# Virtual documents 
+.virtual_documents/
