@@ -63,8 +63,9 @@ Install the required Python packages:
 - `data/` – original and cleaned datasets
 - `notebooks/` – data exploration, preparation and modelling notebooks
 - `outputs/` – files produced during analysis
+- `project_report.pdf` - accompanying project report
 - `requirements.txt` – required Python packages
-- `report` - accompanying project report
+
 
 ### Executing the Program
 
