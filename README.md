@@ -64,6 +64,7 @@ Install the required Python packages:
 - `notebooks/` – data exploration, preparation and modelling notebooks
 - `outputs/` – files produced during analysis
 - `requirements.txt` – required Python packages
+- `report` - accompanying project report
 
 ### Executing the Program
 
