@@ -217,9 +217,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
 # DS Store
 **/.DS_Store
 
 # Virtual documents 
 .virtual_documents/
+
+# PyCharm
+.idea/
