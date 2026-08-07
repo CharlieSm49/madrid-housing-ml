@@ -81,10 +81,11 @@ Charlie Smith – @CharlieSm49
 
 ## Acknowledgments
 
-- A special thank you to Obe (CBF Teaching Instructor) for their teaching, guidance and coding examples throughout the course
+- A special thank you to Obe (CBF Teaching Instructor) for her teaching, guidance and coding examples throughout the course
 - Coding Black Females
 - Madrid City Council – source datasets
 - Google Translate
 - W3Schools
 - GeeksforGeeks
 - CodeSignal
+- Stack Overflow
